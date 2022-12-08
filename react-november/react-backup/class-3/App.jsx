@@ -1,11 +1,9 @@
-import React from 'react'
 import Navbar from './Navbar/Navbar'
-import Message from './Message/Message'
 let App = ( )=>{
 
     return <div>
         <Navbar />
-      <Message />
+      <h1>hello,gm</h1>
     </div>
 }
 export default App

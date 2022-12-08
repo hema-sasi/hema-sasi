@@ -1,6 +1,7 @@
+import React from 'react'
 let Navbar =( )=>{
     return <nav>
-        <a href="#">React component EX</a>
+        <a href="#">React EX</a>
     </nav>
 }
 export default Navbar
