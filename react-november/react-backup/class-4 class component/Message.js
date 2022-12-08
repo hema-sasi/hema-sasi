@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+ n import React, { Component } from "react";
 
 class Message extends React.Component{
     Message="good morning"
